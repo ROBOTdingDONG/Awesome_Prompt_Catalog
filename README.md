@@ -2,9 +2,6 @@
 
 
 
-
-![GitHub stars](https://img.shields.io/github/stars/username/Awesome_Prompt_Catalog?style=for-the-badge&logo=github&color/forks/username/Awesome_Prompt_Catalog?style=for-the-badge&logo=github&color=blue/github/issues/username/Awesome_Prompt_Catalog?](https://img.shields.io/github/license/username//github/contributors/username/Awesome_Prompt_Catalog?io/github/last-commit/username/Awesome_Prompt_Catalog?style=for-the-badge&logo=github&colorio/github/repo-size/username/Awesome_Prompt_Catalog?style=for-the-badge&logo=github&color.io/badge/OpenAI-GPT--4|o3|o1-412991?style=for-the-badge&logo=openai&logoColor=img.shields.io/badge/tps://img.shields.io/img.shields.io/badge/Mistral-Le_Chat-FF6B35?style=for-the-badge&logo=mistral&logoColorhe Ultimate Professional Prompt Library**
-
 **Expertly curated, performance-tested prompts for GPT-4, o3, Claude 4, Gemini 2.5, Llama 4, and more. Engineered for optimal outputs across professional AI workflows.**
 
 > *Stop wasting time crafting prompts from scratch. Get professional-grade results instantly with our battle-tested prompt collection.*
